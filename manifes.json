@@ -1,0 +1,21 @@
+{
+  "short_name": "EduSA Albanta",
+  "name": "EduSA Albanta - Generador de SA",
+  "icons": [
+    {
+      "src": "SituacionesLogo_3.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "SituacionesLogo_3.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#4f46e5",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait"
+}
